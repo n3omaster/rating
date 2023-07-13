@@ -1,5 +1,5 @@
 {
-    "name": "rennokki/rating",
+    "name": "n3omaster/rating",
     "description": "Laravel Eloquent Rating allows you to assign ratings to any model.",
     "keywords": [
         "eloquent",
@@ -11,19 +11,19 @@
         "star",
         "system"
     ],
-    "homepage": "https://github.com/renoki-co/rating",
+    "homepage": "https://github.com/n3omaster/rating",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Alex Renoki",
-            "email": "alex@renoki.org",
-            "homepage": "https://github.com/rennokki",
+            "name": "Erich Garcia",
+            "email": "ceo@qvapay.com",
+            "homepage": "https://qvapay.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "illuminate/database": "^8.83|^9.0.1",
-        "illuminate/support": "^8.83|^9.0.1"
+        "illuminate/database": "^8.83|^9.0.1^10.1",
+        "illuminate/support": "^8.83|^9.0.1^10.1"
     },
     "require-dev": {
         "laravel/legacy-factories": "^1.3",
